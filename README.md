@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dhanidayo
 - 👀 I’m interested in ReactJs, NodeJs, .Net/C#
-- 🌱 I’m currently sharpening both my frontend development and backend development skills
+- 🌱 I’m currently learning how payment system works && sharpening both my frontend development and backend development skills
 - 💞️ I’m looking to collaborate on exciting frontend and backend projects
 - 📫 You can reach me on gmail: dhanidayo@gmail.com
 
