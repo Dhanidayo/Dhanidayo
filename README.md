@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dhanidayo
 - 💼 I am mainly a Javascript developer
 - 👀 I am proficient in various Javascript frameworks like ReactJs, NodeJs, ExpressJs, and AngularJs.
-- 👀 I am also familiar with .Net/C#
+- 👀 I am also familiar with ASP.Net/C#
 - 🎨 I am proficient in CSS frameworks like Bootstrap, Material UI, Chakra UI, and Tailwind, but I am sincerely most in love with Pure CSS.
 - 🏬 I am familiar with the SQL database and MongoDB.
 - 💵 I currently work in a fintech company as a NodeJs backend engineer and most of the solutions we provide revolve around payment,
