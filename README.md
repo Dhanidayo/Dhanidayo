@@ -1,15 +1,8 @@
-- 👋 Hi, I’m @Dhanidayo
-- 💼 I am mainly a Javascript developer
-- 👀 I am proficient in various Javascript frameworks like ReactJs, NodeJs, ExpressJs, and AngularJs.
-- 👀 I am also familiar with ASP.Net/C#
-- 🎨 I am proficient in CSS frameworks like Bootstrap, Material UI, Chakra UI, and Tailwind, but I am sincerely most in love with Pure CSS.
-- 🏬 I am familiar with the SQL database and MongoDB.
-- 💵 I currently work in a fintech company as a NodeJs backend engineer and most of the solutions we provide revolve around payment,
-  therefore, I am experienced in how card payment works on POS, Pay With Transfers, and some other custom online payment solutions.
-- 🌱 I am always trying to sharpen both my frontend development and backend development skills through online courses, personal and/or
-  voluntary project contributions, and I am looking to get into Open-source.
-- 💞️ I’m looking to collaborate on exciting frontend and backend projects.
-- 📫 You can reach me on Gmail: dhanidayo@gmail.com
+👋 Hi there! I'm a skilled JavaScript developer with a passion for crafting seamless user experiences. I also have a good background in .NET/C# and have a deep appreciation for pure CSS. 
+🚀 I offer a combination of strong backend skills and polished frontend abilities. Throughout my journey, I have worked with various UI libraries, frontend and backend JavaScript frameworks and extensively worked with MongoDB and SQL for data management. 
+💻✨ My work ethic is based on being proactive and a dependable team player who can start and complete tasks efficiently. 
+💕 I'm not just about writing code; I'm about creating exceptional digital experiences. Let's build something extraordinary together!
+📫 You can reach me on Gmail: dhanidayo@gmail.com
 
 <!---
 Dhanidayo/Dhanidayo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
